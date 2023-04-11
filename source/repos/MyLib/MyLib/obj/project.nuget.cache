@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SGOqNc2V0ctkjugB7phk/cf3BAvAKa40zshf1Vr9SoNhZeyp5nHogR80FpNNVZ5WuFw7kAust6yLfHQ3QfOCyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tarik.islam\\source\\repos\\MyLib\\MyLib\\MyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tarik.islam\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tarik.islam\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
